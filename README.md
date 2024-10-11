@@ -4,3 +4,5 @@ Im learning some basics commands in bash and i want to make a script that runs s
 im going to name this script easier-script and it can be called be typing 'es'
 
 im sorry for my poor english
+
+im a high-school student (12th grade) im very busy studying for school so i well be working on this project in my free time
