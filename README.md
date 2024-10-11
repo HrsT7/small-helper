@@ -3,4 +3,4 @@ Im learning some basics commands in bash and i want to make a script that runs s
 
 im going to name this script easier-script and it can be called be typing 'es'
 
-im sorry for my poor inglish
+im sorry for my poor english
